@@ -1,11 +1,17 @@
-Andrei Alioshyn
-Data Protection Officer
+# Andrei Alioshyn
+
+## Data Protection Officer
+
 Витебская область, Республика Беларусь
-Общие сведения
+
+### Общие сведения
+
 +375336454279
 andrei.alioshyn@gmail.com
 https://t.me/aalioshyn
-Опыт работы
+
+### Опыт работы
+
 ОАО "Белагропромбанк"
 2 года 7 месяцев
 Data Protection Officer
@@ -40,32 +46,38 @@ Software Engineer
 июля 2011 - июня 2012 (1 год)
 Computer lab administrator. Developed the project "Quality Management
 System" module. Used SVN, Eclipse PHP, MySQL.
-Образование
+
+### Образование
+
 VSU named after P.M. Masherov
 Master's degree, Theory and methods of teaching and education (in the field of
 informatics) · (сентября 2017 - февраля 2019)
 VSU named after P.M. Masherov
 Bachelor's degree, Mathematics and Computer Science · (2008 - 2013)
-Способы связаться
+
+### Способы связаться
+
 г. Витебск
 (+375-33) 6454279 (Mobile)
 andrei.alioshyn@gmail.com
 www.linkedin.com/in/alioshyn
 (LinkedIn)
 alioshyn.com (Personal)
-Основные навыки
+
+### Основные навыки
+
 C#
 Windows 10
 Powershell
-Languages
+
+### Languages
+
 Английский (Limited Working)
 Русский (Native or Bilingual)
-Certifications
-MCPS: Microsoft Certified
-Professional
-Exam 480: Programming in HTML5
-with JavaScript and CSS3
-MS: Programming in HTML5 with
-JavaScript and CSS3 Specialist
-Honors-Awards
-hackby'13
+
+### Certifications
+
+- MCPS: Microsoft Certified Professional
+- Exam 480: Programming in HTML5 with JavaScript and CSS3
+- MS: Programming in HTML5 with JavaScript and CSS3 Specialist
+- Honors-Awards - hackby'13
